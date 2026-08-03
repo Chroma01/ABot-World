@@ -11,8 +11,9 @@
 [![Model](https://img.shields.io/badge/Model-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/acvlab/ABot-World-0-5B-LF)
 [![Space](https://img.shields.io/badge/Space-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/spaces/acvlab/abot-world-interactive)
 [![Paper](https://img.shields.io/badge/Paper-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/papers/2607.19191)
+[![Dataset](https://img.shields.io/badge/Dataset_500H-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/datasets/acvlab/ABot-World-Explorer-500h)
 [![Model](https://img.shields.io/badge/Model-ModelScope-7061FF?logo=modelscope)](https://modelscope.cn/models/amap_cvlab/ABot-World-0-5B-LF)
-
+[![Dataset](https://img.shields.io/badge/Dataset_500H-ModelScope-7061FF?logo=modelscope)](https://modelscope.cn/datasets/amap_cvlab/ABot-World-Explorer-500h)
 
 
 <div align="center">
@@ -30,6 +31,7 @@
 
 ## 📢 News
 
+- 2026-08-03: We release the dataset of `500-hour` training data.
 - 2026-07-22: Release ABot-World-0 technical report.
 - 2026-07-13: ABot-World is now on [Reactor](https://reactor.inc/abot-world)!
 - 2026-07-10: We have decided to open-source our `500-hour` video training dataset with accurate action annotations. Stay tuned—we plan to release it very soon.
@@ -172,7 +174,7 @@ This project builds on and is inspired by the following open-source projects: [C
 - [x] Causal Student Model Release
 - [x] Technical Report (Arxiv)
 - [ ] Bidirectional Teacher Model Release
-- [ ] 500-Hour Video Training Dataset with Accurate Action Annotations
+- [x] 500-Hour Video Training Dataset with Accurate Action Annotations
 
 ## 📝 Citation
 If you find our work helpful, please cite our paper:
