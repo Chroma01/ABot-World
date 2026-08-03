@@ -12,8 +12,10 @@
 [![Space](https://img.shields.io/badge/Space-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/spaces/acvlab/abot-world-interactive)
 [![Paper](https://img.shields.io/badge/Paper-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/papers/2607.19191)
 [![Dataset](https://img.shields.io/badge/Dataset_500H-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/datasets/acvlab/ABot-World-Explorer-500h)
+[![Dataset](https://img.shields.io/badge/Dataset_4D-HuggingFace-yellow?logo=huggingface)](https://huggingface.co/datasets/acvlab/ABot-World-Explorer-4D)
 [![Model](https://img.shields.io/badge/Model-ModelScope-7061FF?logo=modelscope)](https://modelscope.cn/models/amap_cvlab/ABot-World-0-5B-LF)
 [![Dataset](https://img.shields.io/badge/Dataset_500H-ModelScope-7061FF?logo=modelscope)](https://modelscope.cn/datasets/amap_cvlab/ABot-World-Explorer-500h)
+[![Dataset](https://img.shields.io/badge/Dataset_4D-ModelScope-7061FF?logo=modelscope)](https://modelscope.cn/datasets/amap_cvlab/ABot-World-Explorer-4D)
 
 
 <div align="center">
