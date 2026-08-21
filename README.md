@@ -34,8 +34,9 @@
 
 ## 📢 News
 
-- 2026-08-03: We release the dataset of `500-hour` training data.
-- 2026-07-22: Release ABot-World-0 technical report.
+- 2026-08-15: We released an experimental [24-hour uninterrupted rollout demo](https://amap-cvlab.github.io/abot-world-0-24h/). Check it out!
+- 2026-08-03: We released the dataset of `500-hour` training data.
+- 2026-07-22: Released ABot-World-0 technical report.
 - 2026-07-13: ABot-World is now on [Reactor](https://reactor.inc/abot-world)!
 - 2026-07-10: We have decided to open-source our `500-hour` video training dataset with accurate action annotations. Stay tuned—we plan to release it very soon.
 - 2026-07-09: We release the causal student model `ABot-World-0-5B-LF`, inference code, our local gradio demo and online playground [ABot World Studio](https://abot-world.amap.com).
