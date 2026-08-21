@@ -197,5 +197,5 @@ If you find our work helpful, please cite our paper:
 ## 🛰 Contact Us via WeChat Group
 Feel free to contact us!
 <div align="center">
-  <img src="http://amap-cvlab.oss-cn-zhangjiakou.aliyuncs.com/github/imgs/abot-world-wechat.jpg?v=0729" width=30%>
+  <img src="http://amap-cvlab.oss-cn-zhangjiakou.aliyuncs.com/github/imgs/abot-world-wechat.jpg?v=0821" width=30%>
 </div>
