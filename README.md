@@ -46,6 +46,23 @@
 > This installation was tested on: Ubuntu 22.04, CUDA 12.8, Python 3.12, NVIDIA RTX 5090.
 > For common hardware and environment questions, see [FAQ.md](FAQ.md).
 
+### 🐳 Option 1: Docker (Recommended)
+
+We provide a prebuilt environment image at [`docker.io/amapcvlab/abot-world:v0-env`](https://hub.docker.com/r/amapcvlab/abot-world), so you can skip the manual installation below. The image contains the runtime environment only; the repository and checkpoints are mounted at runtime:
+
+```bash
+git clone https://github.com/amap-cvlab/ABot-World.git
+cd ABot-World
+
+# Download checkpoints (see "Download checkpoints" below), then:
+docker pull amapcvlab/abot-world:v0-env
+IMAGE=amapcvlab/abot-world:v0-env bash docker/run.sh
+```
+
+Alternatively, build the image yourself with `bash docker/build.sh`. See [docker/README.md](docker/README.md) for build options, volume mounts, and troubleshooting.
+
+### 🔧 Option 2: Manual Installation
+
 1. Clone the repository:
 
 ```bash

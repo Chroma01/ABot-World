@@ -1,0 +1,6 @@
+# BuildKit Dockerfile-specific ignore file (applies when building with
+# `docker build -f docker/Dockerfile .` and BuildKit enabled).
+# The image only needs requirements.txt from the build context;
+# project code is mounted at runtime (see docker/run.sh).
+*
+!requirements.txt
